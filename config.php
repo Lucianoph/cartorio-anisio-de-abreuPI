@@ -18,7 +18,7 @@ return [
     'address' => env_value('SITE_ADDRESS', 'Rua Lino Ribeiro Soares, n.° 95, centro'),
     'city' => env_value('SITE_CITY', 'Anísio de Abreu - PI'),
     'phone' => env_value('SITE_PHONE', '(89)981142030'),
-    'whatsapp' => env_value('SITE_WHATSAPP', '(89)981142030'),
+    'whatsapp' => env_value('SITE_WHATSAPP', '5589981142030'),
     'email' => env_value('SITE_EMAIL', 'cartoriounicoanisio@outlook.com'),
     'hours' => env_value('SITE_HOURS', '08:00 as 14:00'),
     'plantao_rcpn' => env_value('SITE_PLANTAO_RCPN', 'Plantão do Registro Civil: informar telefone e regras locais.'),
